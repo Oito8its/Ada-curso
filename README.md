@@ -11,3 +11,5 @@
 ## git restore
 
 ## git log
+
+- comando git push
