@@ -13,3 +13,5 @@
 ## git log
 
 - comando git push
+
+testando o git fetch - que baixa mudanças feitas e atualiza o meu 
